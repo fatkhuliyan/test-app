@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns	= "http://www.w3.org/ns/widgets"
+	xmlns:gap	= "http://phonegap.com/ns/1.0"
+	id			= "com.mobile.pertemuan1"
+	versionCode	= "10"
+	version		= "1.0.0"	>
+	<name>Test-app</name>
+	<description>
+		Test app pertemuan 1
+	</description>
+	<author href="stpd.cf" email="stpd.os5@gmail.com">
+		Fatkhul Iyan
+	</author>
+</widget>
